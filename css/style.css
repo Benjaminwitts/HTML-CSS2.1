@@ -1,6 +1,13 @@
 body {
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: grey url('../images/blokje.jpg') repeat;
+  background: grey url('../images/thingy2.png') repeat;
+}
+
+h1{
+  font-size: 300%
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: right;
 }
 
 *{
