@@ -23,3 +23,24 @@ h1{
   margin: 0;
   padding: 0;
 }
+
+ul {
+  background: #080808;
+  padding: 10px;
+}
+
+ul li {
+  background: #787878;
+  padding: 5px;
+  border: solid 2px white;
+  display: inline-block;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #C0C0C0;
+}
