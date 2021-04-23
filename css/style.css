@@ -1,5 +1,6 @@
 body {
-  background-color: lightblue;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  background: grey url('../images/blokje.jpg') repeat;
 }
 
 *{
