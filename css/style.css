@@ -3,11 +3,19 @@ body {
   background: grey url('../images/thingy2.png') repeat;
 }
 
+header{
+  background: url('../images/thingy.png');
+  text-align: center;
+  font-size: 400%;
+  width: 960px;
+  height: 150px;
+}
+
 h1{
   font-size: 300%
   font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
-  text-align: right;
+  text-align: center;
 }
 
 *{
