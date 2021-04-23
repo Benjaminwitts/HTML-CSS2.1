@@ -5,14 +5,15 @@ body {
 
 header{
   background: url('../images/thingy.png');
-  text-align: center;
   font-size: 400%;
-  width: 960px;
+  width: 1540px;
   height: 150px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 h1{
-  font-size: 300%
+  font-size: 200%
   font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
   text-align: center;
